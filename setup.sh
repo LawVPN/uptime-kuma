@@ -52,3 +52,5 @@ sudo chown nodejs:nodejs /opt/uptime-kuma -R
 sudo systemctl daemon-reload
 # start uptime-kuma service on boot and now
 sudo systemctl enable uptime-kuma --now
+
+# SC: https://i12bretro.github.io/tutorials/0614.html
